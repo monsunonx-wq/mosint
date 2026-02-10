@@ -4,8 +4,8 @@
 services:
   breach_directory_api_key: SET_YOUR_API_KEY_HERE
   emailrep_api_key: SET_YOUR_API_KEY_HERE
-  hunter_api_key: SET_YOUR_API_KEY_HERE
-  intelx_api_key: SET_YOUR_API_KEY_HERE
+  hunter_api_key: https://api.hunter.io/v2/email-finder?domain=reddit.com&first_name=Alexis&last_name=Ohanian&api_key=b965613b4e4202613a0f199b7646323b2a91e8d2
+  intelx_api_key: a094d7af-eb02-490b-99a8-a769091d5cb4
   haveibeenpwned_api_key: SET_YOUR_API_KEY_HERE
 
 settings:
